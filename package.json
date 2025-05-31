@@ -1,0 +1,26 @@
+{
+  "name": "intermediate_webdev_finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/wk642/intrestRateCalculator#readme",
+  "bugs": {
+    "url": "https://github.com/wk642/intrestRateCalculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wk642/intrestRateCalculator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "jasmine": "^5.7.1",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
